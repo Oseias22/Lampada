@@ -1,6 +1,6 @@
 # Lampada
 <li>CTD</li>
-<li>Esse projeto será uma lâmpada que acende, apaga e se der dois cliques ela quebra.</li><br>
+<li>Esse projeto foi criado uma lâmpada que acende, apaga e se der dois cliques ela quebra.</li><br>
 
 
 
